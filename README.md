@@ -13,3 +13,6 @@ The main tasks are to:
 4. Before running the code in Spyder, go to Tools, Preferences, Ipython Console, Graphics and under Graphics Backend select "inline" instead of "automatic". This is to prevent the 200 pltplot figures from displaying in a new window separately <br>
 5. Run sky_detection_operation.py and wait until the process ends <br>
 6. Upon completion of the process, the summary of results will be displayed in the console. There will also be an "output" folder added inside the root folder which contains the detected sky regions and comparison figures for each dataset <br>
+
+<hr>
+<h6>Project completed in 2023</h6>
