@@ -14,5 +14,10 @@ The main tasks are to:
 5. Run sky_detection_operation.py and wait until the process ends <br>
 6. Upon completion of the process, the summary of results will be displayed in the console. There will also be an "output" folder added inside the root folder which contains the detected sky regions and comparison figures for each dataset <br>
 
+<h3>Results:</h3>
+![20121024_214145_comp](https://github.com/yuennyao/sky-region-detection/assets/87840513/cbc9945a-52c3-4591-ace0-674687113527)
+![20130622_065704_comp](https://github.com/yuennyao/sky-region-detection/assets/87840513/f5885d42-de6a-422d-be6c-6174fc467c5b)
+
+
 <hr>
 <h6>Project completed in 2023</h6>
